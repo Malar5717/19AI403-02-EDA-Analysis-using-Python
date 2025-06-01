@@ -1,9 +1,9 @@
 # EXNO2DS
 # AIM:
-      To perform Exploratory Data Analysis on the given data set.
+To perform Exploratory Data Analysis on the given data set.
       
 # EXPLANATION:
-  The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
+The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
   
 # ALGORITHM:
 STEP 1: Import the required packages to perform Data Cleansing,Removing Outliers and Exploratory Data Analysis.
@@ -23,7 +23,7 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-        <<INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS>>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Malar5717/19AI403-02-EDA-Analysis-using-Python/blob/main/ds_exp02.ipynb)
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+Thus exploratory data analysis on the given data set has been executed successfully.
